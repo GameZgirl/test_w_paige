@@ -6,7 +6,8 @@ def tell_joke():
     print(joke)
 
 def main():
-    print("Welcome to the Random Joke Paige")
+
+    print("Welcome to the Random Joke PEEPEEPOOPOO!")
     while True:
         print("\nPress 'Enter' to hear a joke or type 'exit' to quit.")
         user_input = input().strip().lower()
